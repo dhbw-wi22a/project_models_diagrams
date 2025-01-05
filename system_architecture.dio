@@ -1,0 +1,101 @@
+<mxfile host="65bd71144e">
+    <diagram id="jE5obORp82wCCUqVIAV5" name="Seite-1">
+        <mxGraphModel dx="1676" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;fillColor=#A89174;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="105" y="302" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;User Client&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="135" y="324.5" width="60" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="whiteSpace=wrap;html=1;fillColor=#009900;fontColor=#ffffff;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;NGINX&lt;br&gt;Webserver&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#ffffff;strokeColor=none;fontFamily=Tahoma;fillStyle=auto;direction=south;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="340" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Angular&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;horizontal=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="360" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;startSize=6;jumpSize=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="950" y="300" as="sourcePoint"/>
+                        <mxPoint x="1070" y="251" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;jumpSize=0;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;startSize=6;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="880.0952380952381" y="426" as="sourcePoint"/>
+                        <mxPoint x="880" y="516" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="whiteSpace=wrap;html=1;fillColor=#3333FF;fontColor=#ffffff;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="821" y="260" width="120" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Python Django Webframework&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="852" y="320" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;jumpSize=0;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;startSize=6;" edge="1" parent="1" source="28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="560"/>
+                            <mxPoint x="610" y="560"/>
+                            <mxPoint x="150" y="530"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="820" y="520" width="119" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;GO Mailservice&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;horizontal=1;" vertex="1" parent="1">
+                    <mxGeometry x="851" y="545" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeColor=default;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;fillColor=#99CCFF;gradientColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="1080" y="199.5" width="102.5" height="102.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;PostgreSQL&lt;br&gt;DB&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;horizontal=1;" vertex="1" parent="1">
+                    <mxGeometry x="1101.25" y="250" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;rounded=1;strokeWidth=2;strokeColor=#000000;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="270" y="339.34000000000003" as="sourcePoint"/>
+                        <mxPoint x="410" y="339.17" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.restful_api;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeWidth=5;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="340" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;rounded=1;strokeWidth=2;strokeColor=#000000;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="564" y="340.17000000000013" as="sourcePoint"/>
+                        <mxPoint x="634" y="340" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;rounded=1;strokeWidth=2;strokeColor=#000000;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="740" y="340.1700000000001" as="sourcePoint"/>
+                        <mxPoint x="810" y="340" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="" style="whiteSpace=wrap;html=1;fillColor=#DF8C42;strokeColor=none;fontFamily=Tahoma;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="260" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;API&lt;br&gt;Gateway&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;horizontal=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="285" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot; color=&quot;#6666ff&quot;&gt;VPS with Dokploy&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#6666ff&quot;&gt;Every service is deployed as a container&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6666FF;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fillStyle=auto;strokeWidth=2;fontFamily=Tahoma;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+                    <mxGeometry x="1230" y="720" width="253.33" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

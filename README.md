@@ -15,7 +15,7 @@ Dieses Repository enthält alle **Modelle und Diagramme**, die für die Planung 
    - Modelliert die Datenbankstruktur, inklusive Entitäten wie Kunden, Produkte und Bestellungen sowie deren Beziehungen.
 
 4. **Systemarchitektur-Diagramm**  
-   - Beschreibt die technische Struktur des Systems, inklusive Frontend, Backend und Schnittstellen.
+   - Beschreibt die technische Struktur des Systems, inklusive Frontend, Backend und Schnittstellen zu Servicen.
 
 5. **Sequenzdiagramme**  
    - Zeigt die Abläufe von Aktionen innerhalb des Systems, z. B. Bestellprozess oder Login.
@@ -23,17 +23,10 @@ Dieses Repository enthält alle **Modelle und Diagramme**, die für die Planung 
 ## Ziel
 Die hier gespeicherten Modelle und Diagramme sollen als Grundlage für die Entwicklung und Dokumentation des Webshops dienen. Sie helfen dem Team, Anforderungen besser zu verstehen und technische Entscheidungen zu unterstützen.
 
-## Struktur (Beispiel)
-- **`/use_case_diagrams/`**: Enthält die Use-Case-Diagramme.  
-- **`/uml_diagrams/`**: UML-Diagramme zur Visualisierung von Abläufen und Strukturen.  
-- **`/er_diagrams/`**: ER-Diagramme für die Datenbankmodellierung.  
-- **`/system_architecture/`**: Diagramme zur Beschreibung der Systemarchitektur.  
-- **`/sequence_diagrams/`**: Sequenzdiagramme für detaillierte Prozessabläufe.
-
 ## Hinweise
 - Bitte stellt sicher, dass alle Dateien sinnvoll benannt und in den richtigen Ordnern abgelegt werden.
 - Für die Erstellung von Diagrammen empfehlen wir die Nutzung von , **draw.io** (VS Extension verfügbar), **PlantUML** oder eine anderes Tool.
 
 ---
 
-Bei Fragen oder Vorschlägen zur Struktur oder zu den Diagrammen bitte eine Issue im Repository erstellen.
+Bei Fragen oder Vorschlägen zur Struktur oder zu den Diagrammen bitte eine Issue im Repository erstellen
